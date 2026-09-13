@@ -1,0 +1,276 @@
+[
+  {
+    "id": "kst-001",
+    "nama_kost": "Kost Ayahanda Premium",
+    "nama_pemilik": "Bapak Herman",
+    "lokasi": {
+      "alamat": "Jl. Ayahanda No. 45, Sei Putih Tengah",
+      "kecamatan": "Medan Petisah",
+      "koordinat": { "lat": 3.593685, "lng": 98.661732 }
+    },
+    "tipe_kost": "Campur",
+    "harga_per_bulan": 1500000,
+    "deskripsi_kost": "Kost eksklusif di pusat kota Medan, sangat dekat dengan area perkantoran dan rumah sakit. Suasana tenang, aman, dan nyaman untuk profesional maupun mahasiswa yang membutuhkan privasi lebih.",
+    "spesifikasi_kamar": {
+      "ukuran": "4 x 4 meter",
+      "jendela": "Ada jendela luar",
+      "listrik": "Token prabayar (mandiri)"
+    },
+    "fasilitas_kamar": ["AC", "Kasur Springbed", "Lemari Pakaian", "Meja Belajar", "Kamar Mandi Dalam", "Water Heater"],
+    "fasilitas_umum": ["Dapur Bersama", "Parkir Mobil & Motor", "WiFi 50Mbps", "CCTV 24 Jam", "Ruang Santai"],
+    "peraturan_kost": [
+      "Dilarang membawa hewan peliharaan",
+      "Tamu lawan jenis dilarang masuk ke kamar",
+      "Tamu menginap wajib lapor dan bayar biaya tambahan",
+      "Akses gerbang 24 jam (bawa kunci masing-masing)"
+    ],
+    "foto_url": [
+      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1505693314120-0d443867891c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "tersedia": true
+  },
+  {
+    "id": "kst-002",
+    "nama_kost": "Kost Bunga Dr. Mansyur",
+    "nama_pemilik": "Ibu Rosmawati",
+    "lokasi": {
+      "alamat": "Jl. Dr. Mansyur Gang Bunga No. 12",
+      "kecamatan": "Medan Baru",
+      "koordinat": { "lat": 3.565891, "lng": 98.652134 }
+    },
+    "tipe_kost": "Putri",
+    "harga_per_bulan": 850000,
+    "deskripsi_kost": "Kost khusus mahasiswi yang aman dan kekeluargaan. Hanya 5 menit jalan kaki ke pintu 1 USU. Lingkungan banyak tempat makan dan fotokopi.",
+    "spesifikasi_kamar": {
+      "ukuran": "3 x 3 meter",
+      "jendela": "Jendela menghadap lorong",
+      "listrik": "Termasuk dalam harga sewa"
+    },
+    "fasilitas_kamar": ["Kipas Angin", "Kasur", "Lemari Pakaian", "Kamar Mandi Luar"],
+    "fasilitas_umum": ["Dapur Bersama", "Parkir Motor", "WiFi", "Tempat Jemuran"],
+    "peraturan_kost": [
+      "Jam malam pukul 22.00 WIB",
+      "Pria dilarang masuk melewati batas ruang tamu",
+      "Wajib menjaga kebersihan area dapur dan kamar mandi"
+    ],
+    "foto_url": ["https://images.unsplash.com/photo-1554995207-c18c203602cb?auto=format&fit=crop&w=800&q=80"],
+    "tersedia": true
+  },
+  {
+    "id": "kst-003",
+    "nama_kost": "Kost Executive Setia Budi",
+    "nama_pemilik": "Bang Andi",
+    "lokasi": {
+      "alamat": "Jl. Setia Budi Pasar 1 No. 88",
+      "kecamatan": "Medan Selayang",
+      "koordinat": { "lat": 3.570012, "lng": 98.630045 }
+    },
+    "tipe_kost": "Putra",
+    "harga_per_bulan": 1200000,
+    "deskripsi_kost": "Fasilitas lengkap untuk pekerja atau mahasiswa pria. Halaman parkir sangat luas, bangunan baru dan sirkulasi udara sangat baik.",
+    "spesifikasi_kamar": {
+      "ukuran": "3.5 x 4 meter",
+      "jendela": "Ada, sirkulasi sangat baik",
+      "listrik": "Token prabayar (mandiri)"
+    },
+    "fasilitas_kamar": ["AC", "Kasur", "Lemari Pakaian", "Kamar Mandi Dalam", "Meja Kursi"],
+    "fasilitas_umum": ["Parkir Luas (Mobil/Motor)", "WiFi", "Dapur", "Laundry (Berbayar)"],
+    "peraturan_kost": [
+      "Dilarang merokok di dalam kamar",
+      "Dilarang membuat keributan yang mengganggu penghuni lain",
+      "Gerbang dikunci jam 23.30 WIB"
+    ],
+    "foto_url": ["https://images.unsplash.com/photo-1598928506311-c95d43c22d54?auto=format&fit=crop&w=800&q=80"],
+    "tersedia": false
+  },
+  {
+    "id": "kst-004",
+    "nama_kost": "Kost Pembangunan USU",
+    "nama_pemilik": "Ibu Tari",
+    "lokasi": {
+      "alamat": "Jl. Pembangunan Gang Pagi No. 5",
+      "kecamatan": "Medan Baru",
+      "koordinat": { "lat": 3.568055, "lng": 98.655099 }
+    },
+    "tipe_kost": "Campur",
+    "harga_per_bulan": 1000000,
+    "deskripsi_kost": "Kost bangunan rapi dekat area belakang kampus USU. Cocok untuk mahasiswa dengan mobilitas tinggi karena lokasi bebas banjir dan akses mudah.",
+    "spesifikasi_kamar": {
+      "ukuran": "3 x 4 meter",
+      "jendela": "Ada jendela dalam",
+      "listrik": "Termasuk dalam harga sewa (kecuali bawa alat elektronik besar)"
+    },
+    "fasilitas_kamar": ["AC", "Kasur", "Lemari", "Kamar Mandi Dalam"],
+    "fasilitas_umum": ["Parkir Motor", "WiFi", "CCTV", "Akses Kunci 24 Jam"],
+    "peraturan_kost": [
+      "Dilarang berjudi atau mengonsumsi miras di area kost",
+      "Tamu menginap dikenakan Rp 50.000/malam",
+      "Akses gerbang bebas namun wajib digembok kembali"
+    ],
+    "foto_url": ["https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=800&q=80"],
+    "tersedia": true
+  },
+  {
+    "id": "kst-005",
+    "nama_kost": "Kost Melati Karya Jaya",
+    "nama_pemilik": "Ibu Wati",
+    "lokasi": {
+      "alamat": "Jl. Karya Jaya No. 21",
+      "kecamatan": "Medan Johor",
+      "koordinat": { "lat": 3.548211, "lng": 98.664432 }
+    },
+    "tipe_kost": "Putri",
+    "harga_per_bulan": 900000,
+    "deskripsi_kost": "Kost putri asri dekat kawasan pendidikan Medan Johor. Lingkungan rapi dan cocok untuk mahasiswi yang mencari suasana tenang jauh dari kebisingan kota.",
+    "spesifikasi_kamar": {
+      "ukuran": "3 x 3 meter",
+      "jendela": "Ada jendela luar",
+      "listrik": "Termasuk dalam harga sewa"
+    },
+    "fasilitas_kamar": ["Kipas Angin", "Kasur", "Lemari Pakaian", "Kamar Mandi Dalam"],
+    "fasilitas_umum": ["Dapur Bersama", "Parkir Motor", "WiFi", "Ruang Jemur"],
+    "peraturan_kost": [
+      "Khusus mahasiswi/karyawati",
+      "Jam malam pukul 21.30 WIB",
+      "Dilarang membawa tamu menginap"
+    ],
+    "foto_url": ["https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=800&q=80"],
+    "tersedia": true
+  },
+  {
+    "id": "kst-006",
+    "nama_kost": "Kost Sriwijaya Medan Kota",
+    "nama_pemilik": "Bapak Rudi",
+    "lokasi": {
+      "alamat": "Jl. Sriwijaya No. 33",
+      "kecamatan": "Medan Kota",
+      "koordinat": { "lat": 3.582431, "lng": 98.679012 }
+    },
+    "tipe_kost": "Campur",
+    "harga_per_bulan": 1100000,
+    "deskripsi_kost": "Berada di jantung kota Medan, sangat dekat pusat perbelanjaan dan kuliner malam. Ideal untuk karyawan yang bekerja di area pusat kota.",
+    "spesifikasi_kamar": {
+      "ukuran": "3.5 x 3.5 meter",
+      "jendela": "Ada jendela luar",
+      "listrik": "Token prabayar (mandiri)"
+    },
+    "fasilitas_kamar": ["AC", "Kasur", "Lemari Pakaian", "Kamar Mandi Dalam"],
+    "fasilitas_umum": ["Parkir Motor", "WiFi", "CCTV 24 Jam", "Dapur Bersama"],
+    "peraturan_kost": [
+      "Dilarang membawa hewan peliharaan",
+      "Tamu wajib lapor satpam",
+      "Akses 24 jam dengan kartu"
+    ],
+    "foto_url": ["https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=800&q=80"],
+    "tersedia": true
+  },
+  {
+    "id": "kst-007",
+    "nama_kost": "Kost Aksara Medan Timur",
+    "nama_pemilik": "Ibu Ningsih",
+    "lokasi": {
+      "alamat": "Jl. Aksara No. 77",
+      "kecamatan": "Medan Timur",
+      "koordinat": { "lat": 3.601234, "lng": 98.696543 }
+    },
+    "tipe_kost": "Putra",
+    "harga_per_bulan": 800000,
+    "deskripsi_kost": "Kost sederhana dan terjangkau, dekat dengan stasiun dan area perkantoran Medan Timur. Cocok untuk pekerja dengan mobilitas tinggi.",
+    "spesifikasi_kamar": {
+      "ukuran": "3 x 3 meter",
+      "jendela": "Jendela menghadap lorong",
+      "listrik": "Termasuk dalam harga sewa"
+    },
+    "fasilitas_kamar": ["Kipas Angin", "Kasur", "Lemari Pakaian"],
+    "fasilitas_umum": ["Parkir Motor", "WiFi", "Dapur Bersama", "Kamar Mandi Luar"],
+    "peraturan_kost": [
+      "Dilarang merokok di dalam kamar",
+      "Jam malam pukul 23.00 WIB",
+      "Wajib menjaga kebersihan bersama"
+    ],
+    "foto_url": ["https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=800&q=80"],
+    "tersedia": true
+  },
+  {
+    "id": "kst-008",
+    "nama_kost": "Kost Sejahtera Tuntungan",
+    "nama_pemilik": "Bapak Sutrisno",
+    "lokasi": {
+      "alamat": "Jl. Jamin Ginting Km 12",
+      "kecamatan": "Medan Tuntungan",
+      "koordinat": { "lat": 3.523456, "lng": 98.598765 }
+    },
+    "tipe_kost": "Campur",
+    "harga_per_bulan": 700000,
+    "deskripsi_kost": "Lokasi sejuk di kaki wilayah Tuntungan, cocok untuk yang mencari kost murah dengan lingkungan asri dan jauh dari kemacetan pusat kota.",
+    "spesifikasi_kamar": {
+      "ukuran": "3 x 3 meter",
+      "jendela": "Ada jendela luar",
+      "listrik": "Token prabayar (mandiri)"
+    },
+    "fasilitas_kamar": ["Kasur", "Lemari Pakaian", "Kamar Mandi Luar"],
+    "fasilitas_umum": ["Parkir Motor", "WiFi", "Dapur Bersama", "Taman Kecil"],
+    "peraturan_kost": [
+      "Dilarang membawa hewan peliharaan",
+      "Tamu menginap wajib lapor pemilik",
+      "Gerbang dikunci jam 22.00 WIB"
+    ],
+    "foto_url": ["https://images.unsplash.com/photo-1502672023488-70e25813eb80?auto=format&fit=crop&w=800&q=80"],
+    "tersedia": true
+  },
+  {
+    "id": "kst-009",
+    "nama_kost": "Kost Graha Sunggal",
+    "nama_pemilik": "Ibu Marlina",
+    "lokasi": {
+      "alamat": "Jl. Gagak Hitam No. 15",
+      "kecamatan": "Medan Sunggal",
+      "koordinat": { "lat": 3.591123, "lng": 98.628877 }
+    },
+    "tipe_kost": "Putri",
+    "harga_per_bulan": 950000,
+    "deskripsi_kost": "Kost putri nyaman di kawasan Sunggal, dekat dengan pusat perbelanjaan dan sekolah. Lingkungan ramah keluarga dan aman untuk pelajar.",
+    "spesifikasi_kamar": {
+      "ukuran": "3 x 3.5 meter",
+      "jendela": "Ada jendela luar",
+      "listrik": "Termasuk dalam harga sewa"
+    },
+    "fasilitas_kamar": ["AC", "Kasur", "Lemari Pakaian", "Kamar Mandi Dalam"],
+    "fasilitas_umum": ["Dapur Bersama", "Parkir Motor", "WiFi", "CCTV"],
+    "peraturan_kost": [
+      "Khusus mahasiswi/karyawati",
+      "Jam malam pukul 22.00 WIB",
+      "Dilarang membawa hewan peliharaan"
+    ],
+    "foto_url": ["https://images.unsplash.com/photo-1560185127-6ed189bf02f4?auto=format&fit=crop&w=800&q=80"],
+    "tersedia": true
+  },
+  {
+    "id": "kst-010",
+    "nama_kost": "Kost Merdeka Helvetia",
+    "nama_pemilik": "Bapak Yusuf",
+    "lokasi": {
+      "alamat": "Jl. Kapten Muslim No. 60",
+      "kecamatan": "Medan Helvetia",
+      "koordinat": { "lat": 3.607890, "lng": 98.643210 }
+    },
+    "tipe_kost": "Campur",
+    "harga_per_bulan": 1050000,
+    "deskripsi_kost": "Kost strategis dekat pusat perbelanjaan Helvetia, akses mudah ke jalan protokol. Cocok untuk karyawan dan mahasiswa yang butuh mobilitas cepat.",
+    "spesifikasi_kamar": {
+      "ukuran": "3.5 x 4 meter",
+      "jendela": "Ada jendela luar",
+      "listrik": "Token prabayar (mandiri)"
+    },
+    "fasilitas_kamar": ["AC", "Kasur Springbed", "Lemari Pakaian", "Kamar Mandi Dalam"],
+    "fasilitas_umum": ["Parkir Mobil & Motor", "WiFi", "CCTV 24 Jam", "Dapur Bersama"],
+    "peraturan_kost": [
+      "Dilarang membawa hewan peliharaan",
+      "Tamu lawan jenis dilarang masuk kamar",
+      "Akses gerbang 24 jam"
+    ],
+    "foto_url": ["https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=800&q=80"],
+    "tersedia": true
+  }
+]
